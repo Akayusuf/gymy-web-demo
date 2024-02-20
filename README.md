@@ -1,1 +1,1 @@
-# gymy-web-demo
+# gym-web-demo
